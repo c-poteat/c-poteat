@@ -50,11 +50,9 @@ My name is Carnell
 <code>[<img alt="PowerShell" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powershell/powershell.png"/>](https://learn.microsoft.com/en-us/powershell)</code>
 <code>[<img alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>](https://www.python.org)</code>
 <code>[<img alt="bash" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"/>](https://www.gnu.org/software/bash/)</code>
-<code>[<img alt="typescript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>](https://www.typescriptlang.org/)</code>
 <code>[<img alt="Ansible" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png"/>](https://www.ansible.com/)</code>
-<code>[<img alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>](https://www.w3schools.com/html/default.asp)</code>
 <code>[<img alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>](https://www.w3schools.com/css/default.asp)</code>
-<code>[<img alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/>](https://sass-lang.com/)</code>
+<code>[<img alt="HTML" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>](https://sass-lang.com/)</code>
 
 ### 📚 Frameworks, Platforms and Libraries:
 <code>[<img alt="Angular" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"/>](https://angular.io/)</code>
