@@ -4,7 +4,7 @@
 
 <!--- <p align="left"> <img src="https://komarev.com/ghpvc/?username=c-poteat&label=Profile%20views&color=0e75b6&style=flat" alt="c-poteat" /> </p> --->
 
-My name is Carnell
+<strong>My name is Carnell</strong>
 
 ## ⚡ About Me
 - 📈 I am currently working for the US Federal Government <code><img alt="HTML5" width="22px" src="https://static.vecteezy.com/system/resources/previews/002/816/608/original/american-national-flag-free-vector.jpg"/></code>
